@@ -73,7 +73,6 @@ Your README submission must document each tool's name, inputs, and return value.
 <!-- Walk through a complete interaction step by step: natural language query → each tool call (and why) → final fit card.
      Walk through this carefully — it's how graders follow your agent's reasoning without a live demo.
      Use a specific example — do not leave this as a template. -->
-
 **User query:**
 
 **Step 1 — Tool called:**
